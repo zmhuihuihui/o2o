@@ -7,54 +7,257 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7f33cde-a766-45f7-9d7c-e556774ea389" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/o2o_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/o2o_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_penggle_kaptcha_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/o2o_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/o2o_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/Mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/AreaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/frontend/MainPageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/frontend/ShopListController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/frontend/frontendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/shopadmin/ProductCategoryManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/shopadmin/ProductManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/shopadmin/ShopAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/controller/shopadmin/ShopManagerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/AreaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/HeadLineDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/ProductCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/ProductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/ProductImgDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/ShopCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dao/ShopDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dto/ImageHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dto/ProductCategoryExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dto/ProductExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/dto/ShopExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/HeadLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/LocalAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/PersonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/ProductImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/ShopCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/entity/WeChatAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/enums/ProductCategoryStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/enums/ProductStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/enums/ShopStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/exceptions/ProductCategoryOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/exceptions/ProductOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/exceptions/ShopOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/AreaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/HeadLineService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/ProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/ProductImgService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/ShopCategoeyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/AreaServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/HeadLineServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/ProductCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/ShopCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/service/impl/ShopServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/util/CodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/util/HttpServletRequestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/util/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/util/PageCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/com/util/PathUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/AreaDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/HeadLineDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/ProductCategoryDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/ProductDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/ProductImgDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/ShopCategoryDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/mapper/ShopDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/redis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/spring/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/spring/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/spring/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/spring/spring-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/classes/watermark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/frontend/shoplist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/productcategorymanagement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/productmanagement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/productoperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/shoplist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/shopmanagement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/html/shop/shopoperation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/c3p0-0.9.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/commons-pool2-2.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/filters-2.0.235-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/jackson-annotations-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/jackson-core-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/jackson-databind-2.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/jedis-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/kaptcha-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/mybatis-3.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/mybatis-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-aop-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-beans-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-context-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-context-support-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-data-commons-2.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-data-keyvalue-2.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-data-redis-2.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-expression-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-jdbc-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-oxm-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-tx-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-web-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/spring-webmvc-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/lib/thumbnailator-0.4.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/frontend/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/frontend/shoplist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/shop/productcategorymanagement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/shop/productmanagement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/shop/shoplist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/css/shop/shopmanagement.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/common/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/frontend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/frontend/shoplist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/productcategorymanagement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/productmanagement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/productoperation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/shoplist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/shopmanagement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/shop/shopoperation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/js/zepto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/picture/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/picture/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/picture/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/o2o_war_exploded/resources/picture/4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/o2o.iml" beforeDir="false" afterPath="$PROJECT_DIR$/o2o.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/o2o.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/o2o.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/AreaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/frontend/MainPageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/frontend/ShopListController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/frontend/frontendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/shopadmin/ProductCategoryManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/shopadmin/ProductManagementController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/shopadmin/ShopAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/shopadmin/ShopManagerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/AreaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/HeadLineDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ProductCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ProductDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ProductImgDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ShopCategoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ShopDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/ImageHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/ProductCategoryExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/ProductExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dto/ShopExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/HeadLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/LocalAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/PersonInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/ProductImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/ShopCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/WeChatAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enums/ProductCategoryStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enums/ProductStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enums/ShopStateEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/exceptions/ProductCategoryOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/exceptions/ProductOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/exceptions/ShopOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/AreaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/HeadLineService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ProductCategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ProductImgService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ShopCategoeyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/AreaServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/HeadLineServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/ProductCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/ShopCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/ShopServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/CodeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/HttpServletRequestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/PageCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/PathUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/AreaDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/HeadLineDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductCategoryDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ProductImgDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ShopCategoryDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ShopDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/redis.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-redis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/watermark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/classes/META-INF/o2o.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/o2o/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/AreaDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/HeadLIneDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/ProductCategoryDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/ProductDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/ProductImgDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/ShopCategoryDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/ShopDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dao/redisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/service/AreaServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/service/ProductServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/service/ShopServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/watermark.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,7 +268,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,15 +318,15 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -399,6 +612,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -411,8 +625,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36324325" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
@@ -428,7 +642,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="o2o" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="o2o:war exploded">
@@ -438,7 +652,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_o2o_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_o2o_3" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -446,7 +660,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="50773" />
+        <option name="DEBUG_PORT" value="57367" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -513,17 +727,20 @@
       <updated>1583317538927</updated>
       <workItem from="1583317541160" duration="1232000" />
       <workItem from="1583329207499" duration="190000" />
-      <workItem from="1583329525225" duration="247000" />
+      <workItem from="1583329525225" duration="849000" />
+      <workItem from="1583330705071" duration="88000" />
+      <workItem from="1583330906288" duration="1856000" />
+      <workItem from="1583334059074" duration="260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1669000" />
+    <option name="totallyTimeSpent" value="4475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28612304" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23032904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -533,7 +750,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.81807226" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.81807226" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,13 +779,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1894">
-          <caret line="162" column="17" lean-forward="true" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -578,13 +788,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>o2o:war</last-edited>
+          <last-edited>o2o:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
