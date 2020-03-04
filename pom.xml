@@ -12,7 +12,7 @@
 
   <!--全局变量-->
   <properties>
-    <spring.version>5.1.5.RELEASE</spring.version>
+    <spring.version>5.2.2.RELEASE</spring.version>
   </properties>
 
   <dependencies>
@@ -109,7 +109,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.9.8</version>
+      <version>2.10.2</version>
     </dependency>
 
     <!--Map工具类，是对标准Java Collection的扩展-->
@@ -145,7 +145,7 @@
     <dependency>
       <groupId>com.mchange</groupId>
       <artifactId>c3p0</artifactId>
-      <version>0.9.5.2</version>
+      <version>0.9.5.3</version>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
