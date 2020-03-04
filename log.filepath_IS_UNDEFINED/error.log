@@ -1,0 +1,6 @@
+2019-08-14 10:58:22.415[main]ERROR com.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2019-08-14 12:09:11.613[main]ERROR com.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2019-08-14 13:05:46.450[main]ERROR com.util.ImageUtil - /home/zmh/image/update/item/shop6/2019081413054542187.jpg 
+2019-08-14 13:05:46.451[main]ERROR com.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2019-08-14 13:08:17.526[main]ERROR com.util.ImageUtil - /Users/zmh/Pictures/update/item/shop8/2019081413081797652.jpg 
+2019-08-14 13:08:17.526[main]ERROR com.util.ImageUtil - javax.imageio.IIOException: Can't read input file!

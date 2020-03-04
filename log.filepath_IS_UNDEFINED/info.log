@@ -1,0 +1,14 @@
+2019-11-13 15:18:58.863[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:18:58.959[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:26:28.980[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:26:29.057[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:29:12.958[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:29:13.051[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:29:34.685[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:29:34.768[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:37:17.101[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:37:17.178[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:42:27.870[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:42:27.939[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+2019-11-13 15:44:10.967[MLog-Init-Reporter]INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+2019-11-13 15:44:11.039[main]INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]

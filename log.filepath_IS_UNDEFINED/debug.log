@@ -1,0 +1,98 @@
+2019-11-13 15:18:58.872[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:18:58.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:18:58.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:18:58.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:18:58.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:18:58.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:18:58.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:18:58.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:18:58.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:18:58.979[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rn689h1qdzlei|6aa8e115,name=1bqtfs5a6rn689h1qdzlei|6aa8e115 registered.
+2019-11-13 15:18:59.000[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rn689h1qdzlei|6aa8e115,name=1bqtfs5a6rn689h1qdzlei|6aa8e115 unregistered, in order to be reregistered after update.
+2019-11-13 15:18:59.001[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rn689h1qdzlei|6aa8e115,name=1bqtfs5a6rn689h1qdzlei|6aa8e115 registered.
+2019-11-13 15:19:00.103[main]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rn689h1qdzlei|6aa8e115,name=1bqtfs5a6rn689h1qdzlei|6aa8e115 unregistered.
+2019-11-13 15:19:00.103[main]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:26:28.984[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:26:28.985[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:26:28.985[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:26:28.985[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:26:28.985[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:26:28.986[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:26:28.986[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:26:28.986[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:26:28.987[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:26:29.076[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnfvkf1d901c0|31ea9581,name=1bqtfs5a6rnfvkf1d901c0|31ea9581 registered.
+2019-11-13 15:26:29.098[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnfvkf1d901c0|31ea9581,name=1bqtfs5a6rnfvkf1d901c0|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:26:29.099[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnfvkf1d901c0|31ea9581,name=1bqtfs5a6rnfvkf1d901c0|31ea9581 registered.
+2019-11-13 15:26:29.967[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnfvkf1d901c0|31ea9581,name=1bqtfs5a6rnfvkf1d901c0|31ea9581 unregistered.
+2019-11-13 15:26:29.968[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:29:12.963[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:29:12.963[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:29:12.963[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:29:12.963[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:29:12.963[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:29:12.965[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:29:12.965[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:29:12.965[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:29:12.965[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:29:13.071[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnje3i1lfk3gr|31ea9581,name=1bqtfs5a6rnje3i1lfk3gr|31ea9581 registered.
+2019-11-13 15:29:13.091[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnje3i1lfk3gr|31ea9581,name=1bqtfs5a6rnje3i1lfk3gr|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:29:13.091[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnje3i1lfk3gr|31ea9581,name=1bqtfs5a6rnje3i1lfk3gr|31ea9581 registered.
+2019-11-13 15:29:13.978[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnje3i1lfk3gr|31ea9581,name=1bqtfs5a6rnje3i1lfk3gr|31ea9581 unregistered.
+2019-11-13 15:29:13.978[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:29:34.691[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:29:34.691[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:29:34.691[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:29:34.691[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:29:34.691[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:29:34.695[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:29:34.696[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:29:34.696[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:29:34.696[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:29:34.787[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnjuv11tvn5pt|31ea9581,name=1bqtfs5a6rnjuv11tvn5pt|31ea9581 registered.
+2019-11-13 15:29:34.810[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnjuv11tvn5pt|31ea9581,name=1bqtfs5a6rnjuv11tvn5pt|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:29:34.811[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnjuv11tvn5pt|31ea9581,name=1bqtfs5a6rnjuv11tvn5pt|31ea9581 registered.
+2019-11-13 15:29:35.637[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rnjuv11tvn5pt|31ea9581,name=1bqtfs5a6rnjuv11tvn5pt|31ea9581 unregistered.
+2019-11-13 15:29:35.637[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:37:17.105[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:37:17.105[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:37:17.105[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:37:17.105[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:37:17.105[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:37:17.106[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:37:17.107[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:37:17.107[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:37:17.107[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:37:17.192[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rntrnsps2j9d|31ea9581,name=1bqtfs5a6rntrnsps2j9d|31ea9581 registered.
+2019-11-13 15:37:17.210[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rntrnsps2j9d|31ea9581,name=1bqtfs5a6rntrnsps2j9d|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:37:17.210[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rntrnsps2j9d|31ea9581,name=1bqtfs5a6rntrnsps2j9d|31ea9581 registered.
+2019-11-13 15:37:17.982[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6rntrnsps2j9d|31ea9581,name=1bqtfs5a6rntrnsps2j9d|31ea9581 unregistered.
+2019-11-13 15:37:17.982[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:42:27.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:42:27.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:42:27.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:42:27.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:42:27.874[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:42:27.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:42:27.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:42:27.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:42:27.876[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:42:27.953[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro0fg7l3tpq4|31ea9581,name=1bqtfs5a6ro0fg7l3tpq4|31ea9581 registered.
+2019-11-13 15:42:27.970[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro0fg7l3tpq4|31ea9581,name=1bqtfs5a6ro0fg7l3tpq4|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:42:27.971[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro0fg7l3tpq4|31ea9581,name=1bqtfs5a6ro0fg7l3tpq4|31ea9581 registered.
+2019-11-13 15:42:28.862[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro0fg7l3tpq4|31ea9581,name=1bqtfs5a6ro0fg7l3tpq4|31ea9581 unregistered.
+2019-11-13 15:42:28.863[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
+2019-11-13 15:44:10.970[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - Reading VM config for path list /com/mchange/v2/log/default-mchange-log.properties, /mchange-commons.properties, /c3p0.properties, hocon:/reference,/application,/c3p0,/, /mchange-log.properties, /
+2019-11-13 15:44:10.971[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:44:10.971[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:44:10.971[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:44:10.971[MLog-Init-Reporter]DEBUG com.mchange.v2.log.MLog - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:44:10.972[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-commons.properties' could not be found. Skipping.
+2019-11-13 15:44:10.972[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/mchange-log.properties' could not be found. Skipping.
+2019-11-13 15:44:10.972[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier 'hocon:/reference,/application,/c3p0,/' could not be found. Skipping.
+2019-11-13 15:44:10.973[main]DEBUG com.mchange.v2.cfg.MConfig - The configuration file for resource identifier '/c3p0.properties' could not be found. Skipping.
+2019-11-13 15:44:11.054[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro2n01176pmjr|31ea9581,name=1bqtfs5a6ro2n01176pmjr|31ea9581 registered.
+2019-11-13 15:44:11.070[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro2n01176pmjr|31ea9581,name=1bqtfs5a6ro2n01176pmjr|31ea9581 unregistered, in order to be reregistered after update.
+2019-11-13 15:44:11.070[main]DEBUG c.m.v.c.m.DynamicPooledDataSourceManagerMBean - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro2n01176pmjr|31ea9581,name=1bqtfs5a6ro2n01176pmjr|31ea9581 registered.
+2019-11-13 15:44:11.919[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - MBean: com.mchange.v2.c3p0:type=PooledDataSource,identityToken=1bqtfs5a6ro2n01176pmjr|31ea9581,name=1bqtfs5a6ro2n01176pmjr|31ea9581 unregistered.
+2019-11-13 15:44:11.919[Thread-1]DEBUG c.m.v2.c3p0.management.ActiveManagementCoordinator - C3P0Registry mbean unregistered.
